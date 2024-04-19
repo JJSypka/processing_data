@@ -1,0 +1,101 @@
+ticket_id,movie_title,showtime,seat_number,ticket_price,payment_method,ticket_type
+1,"Silent House, The (La casa muda)",7/17/2022,B2,45.56,Cash,Senior
+2,La montaña rusa,9/23/2022,C3,14.29,Cash,Child
+3,"Likeable Mister R, The (Simpaticul domn R)",9/15/2022,D4,34.78,Cash,Child
+4,I Am Trying to Break Your Heart,9/13/2022,D4,48.69,Credit Card,Senior
+5,Mission Congo,7/12/2022,B2,44.38,Mobile Payment,Adult
+6,Blood on Satan's Claw (a.k.a. Satan's Skin),10/23/2022,C3,16.26,Credit Card,Senior
+7,"Day the Earth Caught Fire, The",9/30/2022,A1,40.94,Credit Card,Child
+8,Murders in the Rue Morgue,4/14/2022,B2,40.02,Cash,Child
+9,Ito: A Diary of an Urban Priest (Seitti - kilvoittelijan päiväkirja),10/27/2022,A1,33.15,Credit Card,Senior
+10,Gothic,11/11/2022,B2,36.62,Credit Card,Child
+11,Crossing the Bridge: The Sound of Istanbul,10/10/2022,C3,31.94,Cash,Senior
+12,You Don't Mess with the Zohan,12/15/2022,D4,17.97,Credit Card,Senior
+13,Behind Blue Skies (Himlen är oskyldigt blå),3/7/2022,D4,39.71,Cash,Child
+14,José and Pilar (José e Pilar),2/18/2022,D4,11.9,Credit Card,Adult
+15,"Music Man, The",11/13/2022,D4,21.76,Cash,Senior
+16,"Boys of Baraka, The",12/19/2022,B2,40.21,Cash,Adult
+17,"Return of Dracula, The",12/7/2022,D4,13.9,Cash,Child
+18,Dragon Eyes,4/19/2022,D4,38.21,Cash,Adult
+19,Step Up Revolution,10/12/2022,C3,31.09,Mobile Payment,Senior
+20,Life in Flight ,10/7/2022,B2,12.19,Cash,Child
+21,Odd Couple (Bo ming chan dao duo ming qiang) (Eternal Conflict),3/16/2022,C3,18.44,Credit Card,Adult
+22,Hallelujah I'm a Bum,6/27/2022,A1,15.62,Credit Card,Child
+23,"Court-Martial of Billy Mitchell, The",2/11/2022,A1,11.83,Credit Card,Senior
+24,Escape Me Never,4/23/2022,D4,15.5,Mobile Payment,Senior
+25,Black Rose Ascension (Kurobara shôten),1/28/2022,D4,21.54,Credit Card,Child
+26,Nico Icon,4/11/2022,C3,32.17,Mobile Payment,Senior
+27,"Boys of St. Vincent, The",9/14/2022,B2,44.07,Mobile Payment,Child
+28,Twisted,10/19/2022,A1,18.92,Cash,Senior
+29,Adam's Apples (Adams æbler),1/2/2022,A1,31.8,Mobile Payment,Child
+30,Wrong Turn 3: Left for Dead,5/4/2022,D4,15.49,Credit Card,Senior
+31,Four Friends (a.k.a. Georgia's Friends),12/17/2022,D4,44.41,Mobile Payment,Adult
+32,Deliverance,11/14/2022,A1,10.74,Cash,Senior
+33,Vinci,11/20/2022,D4,39.26,Mobile Payment,Senior
+34,Mina Tannenbaum,10/29/2022,A1,13.34,Mobile Payment,Senior
+35,Tables Turned on the Gardener,3/2/2022,A1,26.91,Cash,Child
+36,Latter Days,4/25/2022,A1,11.57,Mobile Payment,Senior
+37,Woyzeck,7/20/2022,C3,27.2,Mobile Payment,Senior
+38,Pat and Mike,4/27/2022,C3,13.16,Cash,Child
+39,Spirited Away (Sen to Chihiro no kamikakushi),5/21/2022,C3,30.89,Cash,Child
+40,Curious George,4/1/2022,D4,36.64,Mobile Payment,Adult
+41,Heartbeats (Les amours imaginaires),2/19/2022,B2,13.32,Mobile Payment,Child
+42,Kirikou and the Sorceress (Kirikou et la sorcière),2/21/2022,C3,12.5,Mobile Payment,Adult
+43,"Man Who Could Work Miracles, The",12/2/2022,D4,11.55,Mobile Payment,Child
+44,Evil - In the Time of Heroes (To kako - Stin epohi ton iroon),11/19/2022,A1,46.09,Mobile Payment,Child
+45,Japanese Girls at the Harbor (Minato no nihon musume),1/18/2022,D4,33.46,Cash,Child
+46,Mentor,7/29/2022,A1,26.63,Cash,Child
+47,Stander,10/10/2022,D4,29.55,Cash,Child
+48,Far Out Isn't Far Enough: The Tomi Ungerer Story,2/28/2022,C3,37.82,Credit Card,Senior
+49,Windtalkers,5/3/2022,C3,19.25,Cash,Adult
+50,China O'Brien,11/4/2022,D4,42.66,Cash,Adult
+51,Adore,11/3/2022,C3,36.09,Mobile Payment,Adult
+52,I Wake Up Screaming,2/26/2022,A1,27.02,Mobile Payment,Senior
+53,"Octagon, The",10/24/2022,D4,26.74,Credit Card,Senior
+54,"Room with a View, A",11/5/2022,B2,33.21,Mobile Payment,Adult
+55,Return to House on Haunted Hill,10/11/2022,A1,28.89,Credit Card,Senior
+56,I Live in Fear (Ikimono no kiroku),2/25/2022,D4,12.81,Mobile Payment,Senior
+57,Aziz Ansari: Dangerously Delicious,7/20/2022,A1,22.7,Mobile Payment,Adult
+58,"Satanic Rites of Dracula, The",6/2/2022,A1,17.84,Mobile Payment,Child
+59,Bride of Chucky (Child's Play 4),5/18/2022,B2,25.94,Credit Card,Senior
+60,"Ogre, The (Unhold, Der)",6/14/2022,C3,33.07,Cash,Senior
+61,Ripley's Game,11/2/2022,C3,44.11,Cash,Adult
+62,Election Day,3/27/2022,C3,19.62,Credit Card,Child
+63,"Late Mathias Pascal, The (a.k.a. The Living Dead Man) (Feu Mathias Pascal)",6/15/2022,B2,26.0,Cash,Child
+64,"Bench, The (Bænken)",7/7/2022,D4,33.99,Cash,Adult
+65,Stalingrad,1/18/2022,D4,21.8,Credit Card,Adult
+66,Two Shots Fired,1/19/2022,C3,14.28,Mobile Payment,Adult
+67,Hunted City,9/18/2022,C3,13.85,Mobile Payment,Adult
+68,"Indian Runner, The",11/11/2022,C3,42.25,Cash,Senior
+69,Black Angel,1/20/2022,B2,49.84,Cash,Child
+70,Kill! (Kiru),11/14/2022,C3,42.53,Cash,Adult
+71,Open Season,8/15/2022,C3,36.8,Cash,Child
+72,"Mouse on the Moon, The",2/3/2022,B2,13.83,Mobile Payment,Senior
+73,Year of the Jellyfish (L'année des méduses),5/6/2022,A1,26.57,Mobile Payment,Adult
+74,"Family Man, The",8/2/2022,A1,39.76,Credit Card,Child
+75,Quintet,4/29/2022,C3,24.64,Cash,Senior
+76,Angel Face,7/12/2022,A1,33.12,Credit Card,Child
+77,"Bicycle, Spoon, Apple (Bicicleta, cullera, poma)",11/19/2022,D4,11.37,Credit Card,Adult
+78,Undercover Blues,2/8/2022,C3,45.86,Mobile Payment,Adult
+79,Sleepover,4/7/2022,B2,45.32,Credit Card,Adult
+80,"Girl Next Door, The",10/25/2022,D4,48.36,Credit Card,Senior
+81,Now Is Good,1/13/2022,B2,19.38,Cash,Child
+82,Town Without Pity,1/27/2022,A1,29.71,Credit Card,Adult
+83,"Rachel, Rachel",1/5/2022,D4,49.6,Credit Card,Child
+84,Love Don't Cost a Thing,6/3/2022,D4,29.47,Cash,Senior
+85,Pooh's Heffalump Movie,11/8/2022,D4,21.99,Credit Card,Child
+86,Howl,7/12/2022,A1,32.8,Credit Card,Adult
+87,Supporting Characters,10/9/2022,A1,30.37,Mobile Payment,Senior
+88,The Kick,2/6/2022,B2,13.33,Cash,Senior
+89,"Private Life of Don Juan, The",9/28/2022,D4,27.16,Credit Card,Senior
+90,Lasa y Zabala,9/19/2022,C3,23.88,Credit Card,Adult
+91,Maniacts,12/28/2022,B2,33.06,Credit Card,Senior
+92,The Diary of a Teenage Girl,3/21/2022,B2,44.75,Credit Card,Senior
+93,Monsturd,8/14/2022,D4,21.69,Mobile Payment,Child
+94,Happy People: A Year in the Taiga,5/17/2022,D4,37.08,Cash,Child
+95,"Construction, The (En construcción)",12/20/2022,A1,17.69,Cash,Adult
+96,This Is 40,6/27/2022,C3,27.05,Mobile Payment,Child
+97,Damned the Day I Met You,5/22/2022,C3,17.27,Mobile Payment,Senior
+98,"Last of the Mohicans, The",5/17/2022,B2,19.17,Cash,Adult
+99,Life in Flight ,9/9/2022,D4,43.92,Mobile Payment,Child
+100,Poppy Shakespeare,2/12/2022,C3,13.32,Mobile Payment,Child

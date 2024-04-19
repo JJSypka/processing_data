@@ -1,0 +1,51 @@
+ticket_id,movie_title,showtime,seat_number,ticket_price,payment_method,ticket_type
+101,Galaxy Express 999 (Ginga tetsudô Three-Nine),12/4/2022,B2,29.95,Mobile Payment,Senior
+102,Chimes at Midnight (Campanadas a medianoche),8/20/2022,B2,15.36,Cash,Adult
+103,"Walk Among the Tombstones, A",1/22/2022,C3,27.73,Cash,Senior
+104,Fish Story (Fisshu sutôrî),3/12/2022,D4,40.09,Credit Card,Adult
+105,"Gospel, The",10/20/2022,C3,15.61,Mobile Payment,Child
+106,High Life,10/9/2022,B2,20.49,Credit Card,Senior
+107,Mad City,10/14/2022,C3,45.41,Mobile Payment,Adult
+108,Loving Annabelle,1/14/2022,B2,27.51,Mobile Payment,Senior
+109,A Mulher Invisível,5/25/2022,B2,31.47,Cash,Senior
+110,North Country,7/28/2022,A1,17.78,Cash,Adult
+111,Holding Trevor,4/9/2022,A1,37.61,Credit Card,Adult
+112,Soccer Days,3/23/2022,A1,36.25,Mobile Payment,Child
+113,Lean on Me,10/12/2022,C3,14.46,Credit Card,Child
+114,"Prefab People, The (Panelkapcsolat)",1/13/2022,A1,41.21,Credit Card,Adult
+115,Woyzeck,8/12/2022,A1,32.16,Mobile Payment,Adult
+116,Seven Invisible Men (Septyni nematomi zmones),4/27/2022,B2,22.73,Cash,Child
+117,Sweetwater,8/2/2022,D4,21.72,Cash,Adult
+118,Crude,10/29/2022,B2,25.83,Cash,Child
+119,Last Resort (National Lampoon's Last Resort),1/12/2022,B2,20.42,Mobile Payment,Adult
+120,Trees Lounge,8/23/2022,C3,18.29,Cash,Senior
+121,Boiling Point,9/7/2022,B2,34.21,Cash,Child
+122,Farmageddon,5/30/2022,C3,21.75,Cash,Senior
+123,Dragon Ball Z: Bojack Unbound (Doragon bôru Z 9: Ginga girigiri!! Butchigiri no sugoi yatsu),8/23/2022,D4,16.17,Mobile Payment,Senior
+124,Sheep Eaters (Lampaansyöjät),1/12/2022,B2,11.03,Credit Card,Child
+125,"Swinger, The",3/23/2022,A1,38.83,Cash,Senior
+126,On Borrowed Time,11/19/2022,A1,24.67,Credit Card,Child
+127,Scanners II: The New Order,8/27/2022,B2,18.39,Credit Card,Senior
+128,Venus & Fleur,4/22/2022,B2,34.91,Credit Card,Adult
+129,Triumph of the Will (Triumph des Willens),4/18/2022,C3,44.7,Credit Card,Senior
+130,Sherlock Holmes,12/1/2022,D4,32.81,Cash,Child
+131,"Twilight People, The",10/2/2022,A1,27.59,Cash,Child
+132,Saving Private Ryan,8/26/2022,A1,28.63,Cash,Senior
+133,Kickboxer,1/31/2022,B2,43.87,Credit Card,Senior
+134,Theodore Rex,10/19/2022,B2,11.85,Credit Card,Adult
+135,xXx: State of the Union,7/3/2022,D4,12.65,Mobile Payment,Child
+136,Mammoth (Mammut),9/29/2022,C3,20.41,Mobile Payment,Senior
+137,Nick the Sting,7/13/2022,C3,33.92,Mobile Payment,Adult
+138,Kagerô-za,11/7/2022,C3,46.86,Mobile Payment,Adult
+139,Snowmageddon,1/23/2022,B2,34.56,Credit Card,Adult
+140,Leontine,5/7/2022,B2,21.21,Mobile Payment,Senior
+141,Sinister,7/29/2022,B2,35.66,Cash,Senior
+142,"Edge, The",12/20/2022,B2,48.54,Credit Card,Senior
+143,Dear Me,6/17/2022,A1,43.71,Cash,Adult
+144,Went to Coney Island on a Mission From God... Be Back by Five,10/8/2022,D4,11.31,Credit Card,Child
+145,"Battle Creek Brawl (Big Brawl, The)",1/31/2022,D4,23.83,Mobile Payment,Child
+146,French Roast,6/16/2022,C3,13.62,Credit Card,Senior
+147,Bombardier,12/30/2022,B2,29.41,Mobile Payment,Senior
+148,"Original Kings of Comedy, The",7/14/2022,D4,35.46,Mobile Payment,Senior
+149,Karlsson Brothers (Bröderna Karlsson),3/18/2022,A1,19.77,Credit Card,Child
+150,Northwest Passage,2/27/2022,D4,36.78,Credit Card,Child
